@@ -1,2 +1,2 @@
 # JogoDaVelha
-Jogo da velha em python
+Jogo da velha feito em python
